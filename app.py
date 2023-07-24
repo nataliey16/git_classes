@@ -3,3 +3,4 @@ name = "Natalie Y"
 print(f"Hello, my name is {name}")
 
 adding_change = "Adding a new comment"
+adding_change2 = "Adding another comment"
