@@ -16,9 +16,9 @@ class Person:
     def print_person_char(self):
         self.currentFavouriteColour = input("Is your favourite colour still Olive Green?  ")
         if (self.currentFavouriteColour == "no"):
-                    self.favouriteColour = input("What is your favourite colour? ")
+            self.favouriteColour = input("What is your favourite colour? ")
         else:
-              self.currentFavouriteColour == self.favouriteColour
+            self.currentFavouriteColour == self.favouriteColour
         print(f"First Name: {self.firstName}")
         print(f"Last Name: {self.lastName}")
         print(f"Favourite colour: {self.favouriteColour}")
